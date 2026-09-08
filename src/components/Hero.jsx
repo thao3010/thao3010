@@ -25,10 +25,10 @@ export default function Hero() {
             </a>
           </div>
         </div>
-        <aside className="hero-aside">
+        {/* <aside className="hero-aside">
           <strong>Currently open to roles</strong>
           <p>{profile.cta}</p>
-        </aside>
+        </aside> */}
       </div>
       <div className="wrap">
         <dl className="metrics">
