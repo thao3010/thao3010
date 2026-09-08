@@ -8,7 +8,7 @@ export const profile = {
   phone: '+84359856979',
   phoneLabel: '0359 856 979',
   github: 'https://github.com/thao3010',
-  cta: 'Open to Mid Frontend / Junior Full-stack roles. 20 minutes — I can walk you through WeAreSpaces (Lighthouse 70→92+) and my NestJS repo.',
+  // cta: 'Open to Mid Frontend / Junior Full-stack roles. 20 minutes — I can walk you through WeAreSpaces (Lighthouse 70→92+) and my NestJS repo.',
 }
 
 export const metrics = [
